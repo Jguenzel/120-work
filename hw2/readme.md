@@ -1,7 +1,7 @@
 Jonas Guenzel
 1/23/2019
-'''alt-homework
-============'''
+alt-homework
+============
 
 what I did this week was how to create a testfile with our names and date using our text editor and learn the basics of github and atom.
 The steps I took to complete the assignment was to read the instructions carefully, re-read the instructions if I had a problem and look at the issue forum for solutions.
