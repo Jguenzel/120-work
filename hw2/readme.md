@@ -13,4 +13,4 @@ Jonas Guenzel
 
 5.I did not help anyone in the issue repo tracker or help any solve problems
 
-![Image of my editor](Screenshot(4).jpg)
+![Image of my editor](hw2)
