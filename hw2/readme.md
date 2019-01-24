@@ -19,4 +19,4 @@ Jonas Guenzel
 
 
 
-![Image of my editor](hw2)
+![Image of my editor](hw2.jpg)
