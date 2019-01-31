@@ -1,6 +1,6 @@
 Jonas Guenzel
 
-[live "hello world!"](https://jguenzel.github.io/120-work/hw3/)
+[live"hello world!"](https://jguenzel.github.io/120-work/hw3/)
 
 1.the biggest challenge that I faced this week was solving why my draw function wasn't working and why it wouldn't write "hello world!" which was solved by fixing a letter that was out of place. Another challenge I faced was my url not working which I solved by renaming the folder and moving the contents.
 
