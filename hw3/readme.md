@@ -8,6 +8,15 @@ Jonas Guenzel
 4.this week I did learn something that was interesting that I should bring up which is if you place your cursor in between both brackets and press enter it creates a space for you to work in while keeping your lines of code in between the brackets.
 5.this week I did not help my classmates with any problems
 
- (hw3.jpg)
+
+
+
+
+
+
+
+
+(hw3.jpg)
+
 
 Current p5 version -> 0.7.1
