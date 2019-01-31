@@ -16,7 +16,7 @@ Jonas Guenzel
 
 
 
-(hw3.jpg)
+![imageofmyeditor](hw3.jpg)
 
 
 Current p5 version -> 0.7.1
