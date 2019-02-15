@@ -1,4 +1,4 @@
-# Empty p5 sketch.
+# hw-5.
 1.what I did this week was learn how to make animations in atom as well as how to make drawings follow my mouse as well as how to position objects for animation in javascript with atom.
 
 2.the steps I took to create this animation was by playing with different commands and seeing what worked best with my bird flying toward a large ball coming into frame, playing with each command individually to understand its function and thoroughly testing it our before adding it to my picture, and making sure each function would meet the requirements of the project.
