@@ -27,7 +27,7 @@ How can you make the ball change direction?
 
 
 ## How did you alter the sketch?
-I changed the sketch to change color of the ball to make it a random color as it moves around the canvas. I also changed the color of the background to green so it would add to the random color command of the bouncing ball.
+I changed the sketch to change color of the ball to make it a random color as it moves around the canvas. I also changed the color of the background to green so it would add to the random color command of the bouncing ball. the reason of why I changed the bouncing ball is  so the ball would look more appealing as well as more toned down in color rather than have a white ball bounding around a pure white background.
 <!--
 Please describe how and why you changed the sketch?
 -->
