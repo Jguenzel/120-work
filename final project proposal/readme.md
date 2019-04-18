@@ -9,23 +9,7 @@ what inspired me for this project was some of the old nintendo games and role pl
 
                                       examples
 
-                    ![image of night](time example.png);      
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                  ![image of night2](time example2.gif);
+![image of night2](time example2.gif);
 
 
 Current p5 version -> 0.7.1
