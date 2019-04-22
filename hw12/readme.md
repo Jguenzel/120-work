@@ -5,7 +5,7 @@
 
 3. I had no other issues this week other personal technical difficulties which prevented me from doing this assignment.
 
-4.I didn't learn anything particular this week that I could discuss further other than the fact that I noticed the sqaures sometimes show up in front of the background rather than behind it.
+4.I didn't learn anything particular this week that I could discuss further other than the fact that I noticed the blood cells sometimes showed up in front of the background rather than behind it.
 
 5. I did not help any of my classmates on the issues forum.
 
