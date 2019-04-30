@@ -1,10 +1,14 @@
+//loads background image
 let img;
+//loads song
 let song;
+//loads dancing stick figure
 let dance;
+//preloads images and song
 function preload(){
 //loads background image from github directory
   img = loadImage("pixelart.png");
-// loads music from github directory soruce - https://soundcloud.com/haffymusic/toploader-dancing-in-the-moonlight-haffy-remix-pm-me-if-you-want-to-do-vocals-on-this
+// loads music from github directory; source - https://soundcloud.com/haffymusic/toploader-dancing-in-the-moonlight-haffy-remix-pm-me-if-you-want-to-do-vocals-on-this
   song = loadSound("Dancing in the moonlight.mp3");
 // loads sprite animation of stick figure
   dance = createImg("dance.gif");
