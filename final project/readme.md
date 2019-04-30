@@ -10,6 +10,7 @@
 4.  this project was tough but was a lot of fun to make as well as code and it is a project that I can say perfectly captures what I had imagined for it.
 
 # references
+https://p5js.org/reference/#/p5/loadImage
 Haffy, dancing in the moonlight toploader remix(
 https://soundcloud.com/haffymusic/toploader-dancing-in-the-moonlight-haffy-remix-pm-me-if-you-want-to-do-vocals-on-this)
 (Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)
